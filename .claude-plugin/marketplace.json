@@ -15,6 +15,15 @@
         "repo": "thesimonho/power-trio"
       },
       "strict": true
+    },
+    {
+      "name": "Agent Bean & Co.",
+      "description": "An autonomous bag of beans.",
+      "source": {
+        "source": "github",
+        "repo": "thesimonho/ab-and-c"
+      },
+      "strict": true
     }
   ]
 }
